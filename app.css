@@ -1,0 +1,16 @@
+#app {
+    display: flex;
+}
+
+textarea, button {
+    font-size: 16px;
+}
+
+#viewer {
+    flex: 1;
+}
+
+button {
+    font-size: 22px;
+    background: none;
+}
